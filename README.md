@@ -15,8 +15,3 @@ Explore the codebase to understand the implementation of the Hover-to-Zoom featu
 ## Contribution
 
 If you find this project helpful or have suggestions for improvement, contributions are welcome! Fork the repository, make your changes, and submit a pull request.
-
-
-## Contribution
-
-If you find this project helpful or have suggestions for improvement, contributions are welcome! Fork the repository, make your changes, and submit a pull request.
